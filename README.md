@@ -26,7 +26,10 @@ I am currently a third-year student pursuing a degree in Software Engineering at
 |              | Fundamentals of testing                   |
 
 ## 📂 My Projects
-1. [ToDoList](https://github.com/твой-ник/ToDoList) — заметки с Room и Coroutines.  
+1. [MyShop](https://github.com/miha-mlv/MyShop)
+2. [Composition Number](https://github.com/miha-mlv/Composition)
+3. [CryptoParser](https://github.com/miha-mlv/android_crypto_parser)
+4. [MovieParser](https://github.com/miha-mlv/android_movie_parser)
 
 ## 📫 Contact Me
 - Email: [malorodovmihail009@gmail.com](mailto:malorodovmihail009@gmail.com)  
