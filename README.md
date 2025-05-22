@@ -19,7 +19,7 @@ I am currently a third-year student pursuing a degree in Software Engineering at
 |              | SQLite, MySQL, Retrofit, JSON,            |
 |              | Dagger 2, ConstraintLayout, RecyclerView, |
 |              | Android Studio, Firebase,                 |
-|              | Kotlin Coroutines, RxJava                 |
+|              | Kotlin Coroutines, RxJava, Broadcast Receivers                 |
 | Architecture | MVVM, Clean Architecture                 |
 | Other        | Docker, MySQL WorkBench, UML diagrams,    |
 |              | BPMN diagrams, Apache Cassandra,          |
